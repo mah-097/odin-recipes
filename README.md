@@ -1,0 +1,1 @@
+In this poject, i will be making a website that will display Odin's recipes. it will consist of main page with a few links to recipes. the goal of this excerisce is to put my current knowldge of HTML ot the test. since i have just learned the basics of HTML, i do not ecpect this to be an amazing site but it will get done to the best of my ability. Hope you love it!
